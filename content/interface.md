@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Oxygen: User Interface
+title: Oxygen User Interface
 nav_order: 7
 ---
 
