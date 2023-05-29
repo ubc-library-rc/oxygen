@@ -2,7 +2,7 @@
 ### UBC Library Research Commons
 
 :heavy_exclamation_mark: This workshop is in development and not yet complete. :heavy_exclamation_mark:    
-Link to workshop: https://ubc-library-rc.github.io/your_workshop_repository_name/
+Link to workshop: https://ubc-library-rc.github.io/oxygen/
 
 Note: content contains teaching notes for an in-person, hands-on intro to Oxygen XML Editor in the Digital Scholarship lab. 
 
