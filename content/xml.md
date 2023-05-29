@@ -42,3 +42,4 @@ Or, as TEI by Example illustrates, could this be a poem, based on the metrical c
 
 <img width="443" alt="image" src="https://github.com/ubc-library-rc/oxygen/assets/100799888/7d31542b-a7df-4fb9-9f22-5efd6e075050">
 
+That’s all we’ll focus on with regards to XML for this workshop. XML is non-proprietary and does not depend on a specific piece of software to use it. You can create and edit XML documents in pretty much any text editor. Oxygen XML Editor is industry standard, robust, and has features that will facilitate work on your project such as validation tools and transformation tools for transforming XML into other document types like HTML. Licenses can be cost prohibitive for the individual but UBC Library has copies installed on computers in the Digital Scholarship Lab, the lab we’re in right now, as well as on the virtual lab machines.
