@@ -1,4 +1,4 @@
-# Name of workshop
+# Introduction to Oxygen XML Editor
 ### UBC Library Research Commons
 
 :heavy_exclamation_mark: This workshop is in development and not yet complete. :heavy_exclamation_mark:    
